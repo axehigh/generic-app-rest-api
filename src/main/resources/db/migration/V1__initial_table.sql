@@ -1,4 +1,4 @@
-CREATE TABLE users (
+CREATE TABLE love_text (
   id bigint(20) NOT NULL AUTO_INCREMENT,
   text varchar(4000) NOT NULL,
   PRIMARY KEY (id),
