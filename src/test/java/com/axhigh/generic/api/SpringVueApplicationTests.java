@@ -1,4 +1,4 @@
-package com.axhigh.spring.vue.springvue;
+package com.axhigh.generic.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
