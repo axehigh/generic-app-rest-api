@@ -1,4 +1,4 @@
-package com.axhigh.generic.api;
+package com.axhigh.generic.api.vue.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -13,4 +13,5 @@ public class MainController {
         model.addAttribute("eventName", "FIFA 2018");
         return "index";
     }
+
 }
