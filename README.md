@@ -1,4 +1,5 @@
-# spring-boot-vue
+# generic-app-rest-api
+A Generic REST API 
 
 
 # Docker
@@ -15,3 +16,4 @@ docker rename id <newname>
 docker ps -a
 
 docker system prune => remove all stopped containers 
+
